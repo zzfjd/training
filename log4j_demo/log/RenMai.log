@@ -1,0 +1,64 @@
+ERROR - error：adshfkjadsfasdfhk
+ERROR|2018/05/09 12:01|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+INFO - info:adshfkjadsfasdfhk
+INFO|2018/05/09 12:01|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : info:adshfkjadsfasdfhk
+WARN - warn:adshfkjadsfasdfhk
+WARN|2018/05/09 12:01|=>cn.com.hfbank.hxshApp.test.test.warn()[Log.java:32] : warn:adshfkjadsfasdfhk
+DEBUG - debug:adshfkjadsfasdfhk
+DEBUG|2018/05/09 12:01|=>cn.com.hfbank.hxshApp.test.test.debug()[Log.java:23] : debug:adshfkjadsfasdfhk
+FATAL - fatal:ppppp
+FATAL|2018/05/09 12:01|=>cn.com.hfbank.hxshApp.test.test.fatal()[Log.java:36] : fatal:ppppp
+ERROR - error：adshfkjadsfasdfhk
+ERROR|2018/05/09 12:02|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+INFO - info:adshfkjadsfasdfhk
+INFO|2018/05/09 12:02|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : info:adshfkjadsfasdfhk
+WARN - warn:adshfkjadsfasdfhk
+WARN|2018/05/09 12:02|=>cn.com.hfbank.hxshApp.test.test.warn()[Log.java:32] : warn:adshfkjadsfasdfhk
+DEBUG - debug:adshfkjadsfasdfhk
+DEBUG|2018/05/09 12:02|=>cn.com.hfbank.hxshApp.test.test.debug()[Log.java:23] : debug:adshfkjadsfasdfhk
+FATAL - fatal:ppppp
+FATAL|2018/05/09 12:02|=>cn.com.hfbank.hxshApp.test.test.fatal()[Log.java:36] : fatal:ppppp
+ERROR - error：adshfkjadsfasdfhk
+ERROR|2018/05/09 12:03|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+INFO - info:adshfkjadsfasdfhk
+INFO|2018/05/09 12:03|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : info:adshfkjadsfasdfhk
+WARN - warn:adshfkjadsfasdfhk
+WARN|2018/05/09 12:03|=>cn.com.hfbank.hxshApp.test.test.warn()[Log.java:32] : warn:adshfkjadsfasdfhk
+DEBUG - debug:adshfkjadsfasdfhk
+DEBUG|2018/05/09 12:03|=>cn.com.hfbank.hxshApp.test.test.debug()[Log.java:23] : debug:adshfkjadsfasdfhk
+FATAL - fatal:ppppp
+FATAL|2018/05/09 12:03|=>cn.com.hfbank.hxshApp.test.test.fatal()[Log.java:36] : fatal:ppppp
+ERROR - error：adshfkjadsfasdfhk
+ERROR|2018/05/09 12:04|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+INFO - info:adshfkjadsfasdfhk
+INFO|2018/05/09 12:04|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : info:adshfkjadsfasdfhk
+WARN - warn:adshfkjadsfasdfhk
+WARN|2018/05/09 12:04|=>cn.com.hfbank.hxshApp.test.test.warn()[Log.java:32] : warn:adshfkjadsfasdfhk
+DEBUG - debug:adshfkjadsfasdfhk
+DEBUG|2018/05/09 12:04|=>cn.com.hfbank.hxshApp.test.test.debug()[Log.java:23] : debug:adshfkjadsfasdfhk
+FATAL - fatal:ppppp
+FATAL|2018/05/09 12:04|=>cn.com.hfbank.hxshApp.test.test.fatal()[Log.java:36] : fatal:ppppp
+ERROR - error：adshfkjadsfasdfhk
+ERROR|2018/05/09 12:06|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+INFO - info:adshfkjadsfasdfhk
+INFO|2018/05/09 12:06|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : info:adshfkjadsfasdfhk
+WARN - warn:adshfkjadsfasdfhk
+WARN|2018/05/09 12:06|=>cn.com.hfbank.hxshApp.test.test.warn()[Log.java:32] : warn:adshfkjadsfasdfhk
+DEBUG - debug:adshfkjadsfasdfhk
+DEBUG|2018/05/09 12:06|=>cn.com.hfbank.hxshApp.test.test.debug()[Log.java:23] : debug:adshfkjadsfasdfhk
+ERROR - error：adshfkjadsfasdfhk
+ERROR|2018/11/02 16:03|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+INFO - info:adshfkjadsfasdfhk
+INFO|2018/11/02 16:03|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : info:adshfkjadsfasdfhk
+WARN - warn:adshfkjadsfasdfhk
+WARN|2018/11/02 16:03|=>cn.com.hfbank.hxshApp.test.test.warn()[Log.java:32] : warn:adshfkjadsfasdfhk
+DEBUG - debug:adshfkjadsfasdfhk
+DEBUG|2018/11/02 16:03|=>cn.com.hfbank.hxshApp.test.test.debug()[Log.java:23] : debug:adshfkjadsfasdfhk
+ERROR - error：adshfkjadsfasdfhk
+ERROR|2019/03/12 12:09|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+INFO - info:adshfkjadsfasdfhk
+INFO|2019/03/12 12:09|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : info:adshfkjadsfasdfhk
+WARN - warn:adshfkjadsfasdfhk
+WARN|2019/03/12 12:09|=>cn.com.hfbank.hxshApp.test.test.warn()[Log.java:32] : warn:adshfkjadsfasdfhk
+DEBUG - debug:adshfkjadsfasdfhk
+DEBUG|2019/03/12 12:09|=>cn.com.hfbank.hxshApp.test.test.debug()[Log.java:23] : debug:adshfkjadsfasdfhk

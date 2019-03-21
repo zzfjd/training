@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<service>
+
+	<SYS_HEAD>
+
+		<SvcId>120030003</SvcId>
+
+		<SvcScnId>28</SvcScnId>
+
+		<CnsmSysId>2093</CnsmSysId>
+		
+		<CnsmSysId2>2093</CnsmSysId2>
+
+		<ChnlType/>
+
+		<SrcSysId>1027</SrcSysId>
+
+		<CnsmSysSeqNo>20190130095337452305</CnsmSysSeqNo>
+
+		<SrcSysSeqNo>20190130095337452305</SrcSysSeqNo>
+
+		<Mac/>
+
+		<MacOrgId/>
+
+		<TranMode>ONLINE</TranMode>
+
+		<TranDate>20190130</TranDate>
+
+		<TranTime>095338631</TranTime>
+
+		<TmnlNo/>
+
+		<SrcSySysnlNo/>
+
+		<CnsmSysSvrId/>
+
+		<SrcSysSvrId/>
+
+	</SYS_HEAD>
+
+	<APP_HEAD>
+
+		<TellerId/>
+
+		<BranchId/>
+
+		<TlrPswd/>
+
+		<TlrLvl/>
+
+		<TlrType/>
+
+		<ChkFlag/>
+
+		<AuthFlag/>
+
+		<AuthTlrId/>
+
+		<AuthBrchId/>
+
+		<AuthTlrPswd/>
+
+	</APP_HEAD>
+
+	<BODY>
+
+		<CnsmTranSeqNo>20190130095337452305</CnsmTranSeqNo>
+
+		<ResultNo/>
+
+		<SndOrgId>B11614560H0001</SndOrgId>
+
+		<UserNo>002</UserNo>
+
+		<Name>李小二</Name>
+
+		<IdType>0</IdType>
+
+		<IdCode>622926198501293785</IdCode>
+
+		<CrntQryRsn>02</CrntQryRsn>
+
+		<SvcCode>FW_GRXYBG_0074</SvcCode>
+
+		<QryOrgId>qryorgid_0001</QryOrgId>
+
+		<QrySponsor>manager zhangkuo</QrySponsor>
+
+		<FrstAprvr/>
+
+		<SubBnkChkr/>
+
+		<ChnlCode>11</ChnlCode>
+
+		<CorpInstCd>000</CorpInstCd>
+
+		<DeptCode>11</DeptCode>
+
+		<PrdcCode>11</PrdcCode>
+
+		<VerfCode>12345678</VerfCode>
+
+		<NewRuleFlg/>
+
+		<OrigMsgRetFlg>1</OrigMsgRetFlg>
+
+		<QueryPrd/>
+
+		<QryMode>03</QryMode>
+
+	</BODY>
+
+</service>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+    <!--<parameter name="include" value="${included}"/>  -->
+    <parameter name="include" value="**************"/>
+	<groups>
+		<run>
+			<include name="Test2" />
+			<exclude name="" />
+		</run>
+	</groups>
+	<test name="Test2">
+		<packages>
+			<package name="com.hfbank.testng.*" />
+		</packages>
+	</test>
+</suite>

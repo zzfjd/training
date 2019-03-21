@@ -1,0 +1,37 @@
+###use myConsoleAppender###
+log4j.rootLogger=DEBUG,console_error,console_info,console_debug,console_warn,fileappender,dra
+
+log4j.appender.console_error=cn.com.hfbank.hxshApp.utils.myConsoleAppender
+log4j.appender.console_error.Target = System.err
+log4j.appender.console_error.layout=org.apache.log4j.PatternLayout
+log4j.appender.console_error.layout.ConversionPattern=%p|%d{yyyy/MM/dd HH:mm}|=>%c.%M()[%F:%L] : %m%n
+log4j.appender.console_error.Threshold=error
+
+log4j.appender.console_info=cn.com.hfbank.hxshApp.utils.myConsoleAppender
+log4j.appender.console_info.Target = System.out
+log4j.appender.console_info.layout=org.apache.log4j.PatternLayout
+log4j.appender.console_info.layout.ConversionPattern=%p|%d{yyyy/MM/dd HH:mm}|=>%c.%M()[%F:%L] : %m%n
+log4j.appender.console_info.Threshold=info
+
+log4j.appender.console_debug=cn.com.hfbank.hxshApp.utils.myConsoleAppender
+log4j.appender.console_debug.Target = System.out
+log4j.appender.console_debug.layout=org.apache.log4j.PatternLayout
+log4j.appender.console_debug.layout.ConversionPattern=%p|%d{yyyy/MM/dd HH:mm}|=>%c.%M()[%F:%L] : %m%n
+log4j.appender.console_debug.Threshold=debug
+
+log4j.appender.console_warn=cn.com.hfbank.hxshApp.utils.myConsoleAppender
+log4j.appender.console_warn.Target = System.out
+log4j.appender.console_warn.layout=org.apache.log4j.PatternLayout
+log4j.appender.console_warn.layout.ConversionPattern=%p|%d{yyyy/MM/dd HH:mm}|=>%c.%M()[%F:%L] : %m%n
+log4j.appender.console_warn.Threshold=warn
+
+log4j.appender.fileappender=org.apache.log4j.FileAppender
+log4j.appender.fileappender.layout=org.apache.log4j.SimpleLayout
+log4j.appender.fileappender.file=log\\RenMai.log
+
+log4j.appender.dra=org.apache.log4j.DailyRollingFileAppender 
+log4j.appender.dra.layout=org.apache.log4j.PatternLayout
+log4j.appender.dra.layout.ConversionPattern=%p|%d{yyyy/MM/dd HH:mm}|=>%c.%M()[%F:%L] : %m%n
+log4j.appender.dra.file=log\\RenMai.log
+log4j.appender.dra.datePattern='.'yyyy-MM-dd
+

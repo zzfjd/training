@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="测试列表">
+	<!-- <parameter name="file" value="${file}" /> <parameter name="sheet" value="${sheet}" 
+		/> -->
+	<test name="恒丰银行系统启动状态监测测试">
+		<classes>
+			<class name="com.test.test"></class>
+		</classes>
+
+		<listeners>
+			<listener class-name="org.uncommons.reportng.HTMLReporter" />
+			<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		</listeners>
+
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

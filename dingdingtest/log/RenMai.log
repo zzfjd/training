@@ -1,0 +1,1187 @@
+ERROR - error：adshfkjadsfasdfhk
+ERROR|2018/05/09 12:01|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+INFO - info:adshfkjadsfasdfhk
+INFO|2018/05/09 12:01|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : info:adshfkjadsfasdfhk
+WARN - warn:adshfkjadsfasdfhk
+WARN|2018/05/09 12:01|=>cn.com.hfbank.hxshApp.test.test.warn()[Log.java:32] : warn:adshfkjadsfasdfhk
+DEBUG - debug:adshfkjadsfasdfhk
+DEBUG|2018/05/09 12:01|=>cn.com.hfbank.hxshApp.test.test.debug()[Log.java:23] : debug:adshfkjadsfasdfhk
+FATAL - fatal:ppppp
+FATAL|2018/05/09 12:01|=>cn.com.hfbank.hxshApp.test.test.fatal()[Log.java:36] : fatal:ppppp
+ERROR - error：adshfkjadsfasdfhk
+ERROR|2018/05/09 12:02|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+INFO - info:adshfkjadsfasdfhk
+INFO|2018/05/09 12:02|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : info:adshfkjadsfasdfhk
+WARN - warn:adshfkjadsfasdfhk
+WARN|2018/05/09 12:02|=>cn.com.hfbank.hxshApp.test.test.warn()[Log.java:32] : warn:adshfkjadsfasdfhk
+DEBUG - debug:adshfkjadsfasdfhk
+DEBUG|2018/05/09 12:02|=>cn.com.hfbank.hxshApp.test.test.debug()[Log.java:23] : debug:adshfkjadsfasdfhk
+FATAL - fatal:ppppp
+FATAL|2018/05/09 12:02|=>cn.com.hfbank.hxshApp.test.test.fatal()[Log.java:36] : fatal:ppppp
+ERROR - error：adshfkjadsfasdfhk
+ERROR|2018/05/09 12:03|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+INFO - info:adshfkjadsfasdfhk
+INFO|2018/05/09 12:03|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : info:adshfkjadsfasdfhk
+WARN - warn:adshfkjadsfasdfhk
+WARN|2018/05/09 12:03|=>cn.com.hfbank.hxshApp.test.test.warn()[Log.java:32] : warn:adshfkjadsfasdfhk
+DEBUG - debug:adshfkjadsfasdfhk
+DEBUG|2018/05/09 12:03|=>cn.com.hfbank.hxshApp.test.test.debug()[Log.java:23] : debug:adshfkjadsfasdfhk
+FATAL - fatal:ppppp
+FATAL|2018/05/09 12:03|=>cn.com.hfbank.hxshApp.test.test.fatal()[Log.java:36] : fatal:ppppp
+ERROR - error：adshfkjadsfasdfhk
+ERROR|2018/05/09 12:04|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+INFO - info:adshfkjadsfasdfhk
+INFO|2018/05/09 12:04|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : info:adshfkjadsfasdfhk
+WARN - warn:adshfkjadsfasdfhk
+WARN|2018/05/09 12:04|=>cn.com.hfbank.hxshApp.test.test.warn()[Log.java:32] : warn:adshfkjadsfasdfhk
+DEBUG - debug:adshfkjadsfasdfhk
+DEBUG|2018/05/09 12:04|=>cn.com.hfbank.hxshApp.test.test.debug()[Log.java:23] : debug:adshfkjadsfasdfhk
+FATAL - fatal:ppppp
+FATAL|2018/05/09 12:04|=>cn.com.hfbank.hxshApp.test.test.fatal()[Log.java:36] : fatal:ppppp
+ERROR - error：adshfkjadsfasdfhk
+ERROR|2018/05/09 12:06|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+INFO - info:adshfkjadsfasdfhk
+INFO|2018/05/09 12:06|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : info:adshfkjadsfasdfhk
+WARN - warn:adshfkjadsfasdfhk
+WARN|2018/05/09 12:06|=>cn.com.hfbank.hxshApp.test.test.warn()[Log.java:32] : warn:adshfkjadsfasdfhk
+DEBUG - debug:adshfkjadsfasdfhk
+DEBUG|2018/05/09 12:06|=>cn.com.hfbank.hxshApp.test.test.debug()[Log.java:23] : debug:adshfkjadsfasdfhk
+ERROR - error：adshfkjadsfasdfhk
+ERROR|2018/05/09 12:12|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+INFO - info:adshfkjadsfasdfhk
+INFO|2018/05/09 12:12|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : info:adshfkjadsfasdfhk
+WARN - warn:adshfkjadsfasdfhk
+WARN|2018/05/09 12:12|=>cn.com.hfbank.hxshApp.test.test.warn()[Log.java:32] : warn:adshfkjadsfasdfhk
+DEBUG - debug:adshfkjadsfasdfhk
+DEBUG|2018/05/09 12:12|=>cn.com.hfbank.hxshApp.test.test.debug()[Log.java:23] : debug:adshfkjadsfasdfhk
+ERROR - error：adshfkjadsfasdfhk
+ERROR|2018/05/09 12:14|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+INFO - info:adshfkjadsfasdfhk
+INFO|2018/05/09 12:14|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : info:adshfkjadsfasdfhk
+WARN - warn:adshfkjadsfasdfhk
+WARN|2018/05/09 12:14|=>cn.com.hfbank.hxshApp.test.test.warn()[Log.java:32] : warn:adshfkjadsfasdfhk
+DEBUG - debug:adshfkjadsfasdfhk
+DEBUG|2018/05/09 12:14|=>cn.com.hfbank.hxshApp.test.test.debug()[Log.java:23] : debug:adshfkjadsfasdfhk
+DEBUG - CookieSpec selected: default
+DEBUG|2018/05/09 16:15|=>org.apache.http.client.protocol.RequestAddCookies.process()[RequestAddCookies.java:122] : CookieSpec selected: default
+DEBUG - Auth cache not set in the context
+DEBUG|2018/05/09 16:15|=>org.apache.http.client.protocol.RequestAuthCache.process()[RequestAuthCache.java:76] : Auth cache not set in the context
+DEBUG - Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG|2018/05/09 16:15|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection()[PoolingHttpClientConnectionManager.java:249] : Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG - Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 16:15|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection()[PoolingHttpClientConnectionManager.java:282] : Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - Opening connection {}->http://127.0.0.1:4723
+DEBUG|2018/05/09 16:15|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:234] : Opening connection {}->http://127.0.0.1:4723
+DEBUG - Connecting to /127.0.0.1:4723
+DEBUG|2018/05/09 16:15|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:138] : Connecting to /127.0.0.1:4723
+DEBUG - Connection established 127.0.0.1:34342<->127.0.0.1:4723
+DEBUG|2018/05/09 16:15|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:145] : Connection established 127.0.0.1:34342<->127.0.0.1:4723
+DEBUG - http-outgoing-0: set socket timeout to 10800000
+DEBUG|2018/05/09 16:15|=>org.apache.http.impl.conn.DefaultManagedHttpClientConnection.setSocketTimeout()[LoggingManagedHttpClientConnection.java:90] : http-outgoing-0: set socket timeout to 10800000
+DEBUG - Executing request POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 16:15|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:255] : Executing request POST /wd/hub/session HTTP/1.1
+DEBUG - Target auth state: UNCHALLENGED
+DEBUG|2018/05/09 16:15|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:260] : Target auth state: UNCHALLENGED
+DEBUG - Proxy auth state: UNCHALLENGED
+DEBUG|2018/05/09 16:15|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:266] : Proxy auth state: UNCHALLENGED
+DEBUG - http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:135] : http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG - http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 >> Content-Length: 134
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Length: 134
+DEBUG - http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG - http-outgoing-0 >> Connection: Keep-Alive
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Connection: Keep-Alive
+DEBUG - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG - http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Length: 134[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Length: 134[\r][\n]"
+DEBUG - http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG - http-outgoing-0 >> "[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "[\r][\n]"
+DEBUG - http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","platformName":"Android","deviceName":"Android Emulator"}}"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","platformName":"Android","deviceName":"Android Emulator"}}"
+DEBUG - http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG - http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG - http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Length: 426[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Length: 426[\r][\n]"
+DEBUG - http-outgoing-0 << "Date: Wed, 09 May 2018 08:15:08 GMT[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Date: Wed, 09 May 2018 08:15:08 GMT[\r][\n]"
+DEBUG - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG - http-outgoing-0 << "[\r][\n]"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "[\r][\n]"
+DEBUG - http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: No app set; either start appium with --app or pass in an 'app' value in desired capabilities, or set androidPackage to launch pre-existing app on device)","origValue":"No app set; either start appium with --app or pass in an 'app' value in desired capabilities, or set androidPackage to launch pre-existing app on device"},"sessionId":null}"
+DEBUG|2018/05/09 16:15|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: No app set; either start appium with --app or pass in an 'app' value in desired capabilities, or set androidPackage to launch pre-existing app on device)","origValue":"No app set; either start appium with --app or pass in an 'app' value in desired capabilities, or set androidPackage to launch pre-existing app on device"},"sessionId":null}"
+DEBUG - http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:124] : http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG - http-outgoing-0 << X-Powered-By: Express
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << X-Powered-By: Express
+DEBUG - http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG - http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG - http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG - http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 << Content-Length: 426
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Length: 426
+DEBUG - http-outgoing-0 << Date: Wed, 09 May 2018 08:15:08 GMT
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Date: Wed, 09 May 2018 08:15:08 GMT
+DEBUG - http-outgoing-0 << Connection: keep-alive
+DEBUG|2018/05/09 16:15|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Connection: keep-alive
+DEBUG - Connection can be kept alive indefinitely
+DEBUG|2018/05/09 16:15|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:284] : Connection can be kept alive indefinitely
+DEBUG - Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG|2018/05/09 16:15|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:314] : Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG - Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 16:15|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:320] : Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - CookieSpec selected: default
+DEBUG|2018/05/09 16:24|=>org.apache.http.client.protocol.RequestAddCookies.process()[RequestAddCookies.java:122] : CookieSpec selected: default
+DEBUG - Auth cache not set in the context
+DEBUG|2018/05/09 16:24|=>org.apache.http.client.protocol.RequestAuthCache.process()[RequestAuthCache.java:76] : Auth cache not set in the context
+DEBUG - Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG|2018/05/09 16:24|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection()[PoolingHttpClientConnectionManager.java:249] : Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG - Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 16:24|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection()[PoolingHttpClientConnectionManager.java:282] : Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - Opening connection {}->http://127.0.0.1:4723
+DEBUG|2018/05/09 16:24|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:234] : Opening connection {}->http://127.0.0.1:4723
+DEBUG - Connecting to /127.0.0.1:4723
+DEBUG|2018/05/09 16:24|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:138] : Connecting to /127.0.0.1:4723
+DEBUG - Connection established 127.0.0.1:34868<->127.0.0.1:4723
+DEBUG|2018/05/09 16:24|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:145] : Connection established 127.0.0.1:34868<->127.0.0.1:4723
+DEBUG - http-outgoing-0: set socket timeout to 10800000
+DEBUG|2018/05/09 16:24|=>org.apache.http.impl.conn.DefaultManagedHttpClientConnection.setSocketTimeout()[LoggingManagedHttpClientConnection.java:90] : http-outgoing-0: set socket timeout to 10800000
+DEBUG - Executing request POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 16:24|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:255] : Executing request POST /wd/hub/session HTTP/1.1
+DEBUG - Target auth state: UNCHALLENGED
+DEBUG|2018/05/09 16:24|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:260] : Target auth state: UNCHALLENGED
+DEBUG - Proxy auth state: UNCHALLENGED
+DEBUG|2018/05/09 16:24|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:266] : Proxy auth state: UNCHALLENGED
+DEBUG - http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:135] : http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG - http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 >> Content-Length: 134
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Length: 134
+DEBUG - http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG - http-outgoing-0 >> Connection: Keep-Alive
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Connection: Keep-Alive
+DEBUG - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG - http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Length: 134[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Length: 134[\r][\n]"
+DEBUG - http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG - http-outgoing-0 >> "[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "[\r][\n]"
+DEBUG - http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","platformName":"Android","deviceName":"Android Emulator"}}"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","platformName":"Android","deviceName":"Android Emulator"}}"
+DEBUG - http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG - http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG - http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Length: 426[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Length: 426[\r][\n]"
+DEBUG - http-outgoing-0 << "Date: Wed, 09 May 2018 08:24:43 GMT[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Date: Wed, 09 May 2018 08:24:43 GMT[\r][\n]"
+DEBUG - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG - http-outgoing-0 << "[\r][\n]"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "[\r][\n]"
+DEBUG - http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: No app set; either start appium with --app or pass in an 'app' value in desired capabilities, or set androidPackage to launch pre-existing app on device)","origValue":"No app set; either start appium with --app or pass in an 'app' value in desired capabilities, or set androidPackage to launch pre-existing app on device"},"sessionId":null}"
+DEBUG|2018/05/09 16:24|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: No app set; either start appium with --app or pass in an 'app' value in desired capabilities, or set androidPackage to launch pre-existing app on device)","origValue":"No app set; either start appium with --app or pass in an 'app' value in desired capabilities, or set androidPackage to launch pre-existing app on device"},"sessionId":null}"
+DEBUG - http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:124] : http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG - http-outgoing-0 << X-Powered-By: Express
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << X-Powered-By: Express
+DEBUG - http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG - http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG - http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG - http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 << Content-Length: 426
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Length: 426
+DEBUG - http-outgoing-0 << Date: Wed, 09 May 2018 08:24:43 GMT
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Date: Wed, 09 May 2018 08:24:43 GMT
+DEBUG - http-outgoing-0 << Connection: keep-alive
+DEBUG|2018/05/09 16:24|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Connection: keep-alive
+DEBUG - Connection can be kept alive indefinitely
+DEBUG|2018/05/09 16:24|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:284] : Connection can be kept alive indefinitely
+DEBUG - Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG|2018/05/09 16:24|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:314] : Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG - Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 16:24|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:320] : Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - CookieSpec selected: default
+DEBUG|2018/05/09 16:33|=>org.apache.http.client.protocol.RequestAddCookies.process()[RequestAddCookies.java:122] : CookieSpec selected: default
+DEBUG - Auth cache not set in the context
+DEBUG|2018/05/09 16:33|=>org.apache.http.client.protocol.RequestAuthCache.process()[RequestAuthCache.java:76] : Auth cache not set in the context
+DEBUG - Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG|2018/05/09 16:33|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection()[PoolingHttpClientConnectionManager.java:249] : Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG - Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 16:33|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection()[PoolingHttpClientConnectionManager.java:282] : Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - Opening connection {}->http://127.0.0.1:4723
+DEBUG|2018/05/09 16:33|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:234] : Opening connection {}->http://127.0.0.1:4723
+DEBUG - Connecting to /127.0.0.1:4723
+DEBUG|2018/05/09 16:33|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:138] : Connecting to /127.0.0.1:4723
+DEBUG - Connection established 127.0.0.1:35433<->127.0.0.1:4723
+DEBUG|2018/05/09 16:33|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:145] : Connection established 127.0.0.1:35433<->127.0.0.1:4723
+DEBUG - http-outgoing-0: set socket timeout to 10800000
+DEBUG|2018/05/09 16:33|=>org.apache.http.impl.conn.DefaultManagedHttpClientConnection.setSocketTimeout()[LoggingManagedHttpClientConnection.java:90] : http-outgoing-0: set socket timeout to 10800000
+DEBUG - Executing request POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 16:33|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:255] : Executing request POST /wd/hub/session HTTP/1.1
+DEBUG - Target auth state: UNCHALLENGED
+DEBUG|2018/05/09 16:33|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:260] : Target auth state: UNCHALLENGED
+DEBUG - Proxy auth state: UNCHALLENGED
+DEBUG|2018/05/09 16:33|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:266] : Proxy auth state: UNCHALLENGED
+DEBUG - http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:135] : http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG - http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 >> Content-Length: 174
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Length: 174
+DEBUG - http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG - http-outgoing-0 >> Connection: Keep-Alive
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Connection: Keep-Alive
+DEBUG - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG - http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Length: 174[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Length: 174[\r][\n]"
+DEBUG - http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG - http-outgoing-0 >> "[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "[\r][\n]"
+DEBUG - http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","androidPackage":"com.android.keyguard","platformName":"Android","deviceName":"Android Emulator"}}"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","androidPackage":"com.android.keyguard","platformName":"Android","deviceName":"Android Emulator"}}"
+DEBUG - http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG - http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG - http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Length: 244[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Length: 244[\r][\n]"
+DEBUG - http-outgoing-0 << "Date: Wed, 09 May 2018 08:33:53 GMT[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Date: Wed, 09 May 2018 08:33:53 GMT[\r][\n]"
+DEBUG - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG - http-outgoing-0 << "[\r][\n]"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "[\r][\n]"
+DEBUG - http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Parameter 'appActivity' is required for launching application)","origValue":"Parameter 'appActivity' is required for launching application"},"sessionId":null}"
+DEBUG|2018/05/09 16:33|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Parameter 'appActivity' is required for launching application)","origValue":"Parameter 'appActivity' is required for launching application"},"sessionId":null}"
+DEBUG - http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:124] : http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG - http-outgoing-0 << X-Powered-By: Express
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << X-Powered-By: Express
+DEBUG - http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG - http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG - http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG - http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 << Content-Length: 244
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Length: 244
+DEBUG - http-outgoing-0 << Date: Wed, 09 May 2018 08:33:53 GMT
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Date: Wed, 09 May 2018 08:33:53 GMT
+DEBUG - http-outgoing-0 << Connection: keep-alive
+DEBUG|2018/05/09 16:33|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Connection: keep-alive
+DEBUG - Connection can be kept alive indefinitely
+DEBUG|2018/05/09 16:33|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:284] : Connection can be kept alive indefinitely
+DEBUG - Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG|2018/05/09 16:33|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:314] : Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG - Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 16:33|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:320] : Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - CookieSpec selected: default
+DEBUG|2018/05/09 16:35|=>org.apache.http.client.protocol.RequestAddCookies.process()[RequestAddCookies.java:122] : CookieSpec selected: default
+DEBUG - Auth cache not set in the context
+DEBUG|2018/05/09 16:35|=>org.apache.http.client.protocol.RequestAuthCache.process()[RequestAuthCache.java:76] : Auth cache not set in the context
+DEBUG - Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG|2018/05/09 16:35|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection()[PoolingHttpClientConnectionManager.java:249] : Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG - Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 16:35|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection()[PoolingHttpClientConnectionManager.java:282] : Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - Opening connection {}->http://127.0.0.1:4723
+DEBUG|2018/05/09 16:35|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:234] : Opening connection {}->http://127.0.0.1:4723
+DEBUG - Connecting to /127.0.0.1:4723
+DEBUG|2018/05/09 16:35|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:138] : Connecting to /127.0.0.1:4723
+DEBUG - Connection established 127.0.0.1:35569<->127.0.0.1:4723
+DEBUG|2018/05/09 16:35|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:145] : Connection established 127.0.0.1:35569<->127.0.0.1:4723
+DEBUG - http-outgoing-0: set socket timeout to 10800000
+DEBUG|2018/05/09 16:35|=>org.apache.http.impl.conn.DefaultManagedHttpClientConnection.setSocketTimeout()[LoggingManagedHttpClientConnection.java:90] : http-outgoing-0: set socket timeout to 10800000
+DEBUG - Executing request POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 16:35|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:255] : Executing request POST /wd/hub/session HTTP/1.1
+DEBUG - Target auth state: UNCHALLENGED
+DEBUG|2018/05/09 16:35|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:260] : Target auth state: UNCHALLENGED
+DEBUG - Proxy auth state: UNCHALLENGED
+DEBUG|2018/05/09 16:35|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:266] : Proxy auth state: UNCHALLENGED
+DEBUG - http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:135] : http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG - http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 >> Content-Length: 321
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Length: 321
+DEBUG - http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG - http-outgoing-0 >> Connection: Keep-Alive
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Connection: Keep-Alive
+DEBUG - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG - http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Length: 321[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Length: 321[\r][\n]"
+DEBUG - http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG - http-outgoing-0 >> "[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "[\r][\n]"
+DEBUG - http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","app":"D:\\workspace\\hfbank_hxshApp\\test\\resources\\hxLife.apk","androidPackage":"com.android.keyguard","platformName":"Android","deviceName":"Android Emulator","appActivity":".MainActivity","appPackage":"com.kayakwise.hfcrd","noReset":true}}"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","app":"D:\\workspace\\hfbank_hxshApp\\test\\resources\\hxLife.apk","androidPackage":"com.android.keyguard","platformName":"Android","deviceName":"Android Emulator","appActivity":".MainActivity","appPackage":"com.kayakwise.hfcrd","noReset":true}}"
+DEBUG - http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG - http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG - http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Length: 740[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Length: 740[\r][\n]"
+DEBUG - http-outgoing-0 << "Date: Wed, 09 May 2018 08:35:07 GMT[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Date: Wed, 09 May 2018 08:35:07 GMT[\r][\n]"
+DEBUG - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG - http-outgoing-0 << "[\r][\n]"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "[\r][\n]"
+DEBUG - http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Bad app: D:\\workspace\\hfbank_hxshApp\\test\\resources\\hxLife.apk. App paths need to be absolute, or relative to the appium server install dir, or a URL to compressed file, or a special app name. cause: Error: Error locating the app: ENOENT, stat 'D:\\workspace\\hfbank_hxshApp\\test\\resources\\hxLife.apk')","origValue":"Bad app: D:\\workspace\\hfbank_hxshApp\\test\\resources\\hxLife.apk. App paths need to be absolute, or relative to the appium server install dir, or a URL to compressed file, or a special app name. cause: Error: Error locating the app: ENOENT, stat 'D:\\workspace\\hfbank_hxshApp\\test\\resources\\hxLife.apk'"},"sessionId":null}"
+DEBUG|2018/05/09 16:35|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Bad app: D:\\workspace\\hfbank_hxshApp\\test\\resources\\hxLife.apk. App paths need to be absolute, or relative to the appium server install dir, or a URL to compressed file, or a special app name. cause: Error: Error locating the app: ENOENT, stat 'D:\\workspace\\hfbank_hxshApp\\test\\resources\\hxLife.apk')","origValue":"Bad app: D:\\workspace\\hfbank_hxshApp\\test\\resources\\hxLife.apk. App paths need to be absolute, or relative to the appium server install dir, or a URL to compressed file, or a special app name. cause: Error: Error locating the app: ENOENT, stat 'D:\\workspace\\hfbank_hxshApp\\test\\resources\\hxLife.apk'"},"sessionId":null}"
+DEBUG - http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:124] : http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG - http-outgoing-0 << X-Powered-By: Express
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << X-Powered-By: Express
+DEBUG - http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG - http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG - http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG - http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 << Content-Length: 740
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Length: 740
+DEBUG - http-outgoing-0 << Date: Wed, 09 May 2018 08:35:07 GMT
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Date: Wed, 09 May 2018 08:35:07 GMT
+DEBUG - http-outgoing-0 << Connection: keep-alive
+DEBUG|2018/05/09 16:35|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Connection: keep-alive
+DEBUG - Connection can be kept alive indefinitely
+DEBUG|2018/05/09 16:35|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:284] : Connection can be kept alive indefinitely
+DEBUG - Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG|2018/05/09 16:35|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:314] : Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG - Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 16:35|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:320] : Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - CookieSpec selected: default
+DEBUG|2018/05/09 16:36|=>org.apache.http.client.protocol.RequestAddCookies.process()[RequestAddCookies.java:122] : CookieSpec selected: default
+DEBUG - Auth cache not set in the context
+DEBUG|2018/05/09 16:36|=>org.apache.http.client.protocol.RequestAuthCache.process()[RequestAuthCache.java:76] : Auth cache not set in the context
+DEBUG - Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG|2018/05/09 16:36|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection()[PoolingHttpClientConnectionManager.java:249] : Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG - Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 16:36|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection()[PoolingHttpClientConnectionManager.java:282] : Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - Opening connection {}->http://127.0.0.1:4723
+DEBUG|2018/05/09 16:36|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:234] : Opening connection {}->http://127.0.0.1:4723
+DEBUG - Connecting to /127.0.0.1:4723
+DEBUG|2018/05/09 16:36|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:138] : Connecting to /127.0.0.1:4723
+DEBUG - Connection established 127.0.0.1:35655<->127.0.0.1:4723
+DEBUG|2018/05/09 16:36|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:145] : Connection established 127.0.0.1:35655<->127.0.0.1:4723
+DEBUG - http-outgoing-0: set socket timeout to 10800000
+DEBUG|2018/05/09 16:36|=>org.apache.http.impl.conn.DefaultManagedHttpClientConnection.setSocketTimeout()[LoggingManagedHttpClientConnection.java:90] : http-outgoing-0: set socket timeout to 10800000
+DEBUG - Executing request POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 16:36|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:255] : Executing request POST /wd/hub/session HTTP/1.1
+DEBUG - Target auth state: UNCHALLENGED
+DEBUG|2018/05/09 16:36|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:260] : Target auth state: UNCHALLENGED
+DEBUG - Proxy auth state: UNCHALLENGED
+DEBUG|2018/05/09 16:36|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:266] : Proxy auth state: UNCHALLENGED
+DEBUG - http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 16:36|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:135] : http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG - http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 16:36|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 >> Content-Length: 254
+DEBUG|2018/05/09 16:36|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Length: 254
+DEBUG - http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG|2018/05/09 16:36|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG - http-outgoing-0 >> Connection: Keep-Alive
+DEBUG|2018/05/09 16:36|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Connection: Keep-Alive
+DEBUG - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG|2018/05/09 16:36|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG|2018/05/09 16:36|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG - http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG|2018/05/09 16:36|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 16:36|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Length: 254[\r][\n]"
+DEBUG|2018/05/09 16:36|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Length: 254[\r][\n]"
+DEBUG - http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG|2018/05/09 16:36|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG|2018/05/09 16:36|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG|2018/05/09 16:36|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG|2018/05/09 16:36|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG - http-outgoing-0 >> "[\r][\n]"
+DEBUG|2018/05/09 16:36|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "[\r][\n]"
+DEBUG - http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","androidPackage":"com.android.keyguard","platformName":"Android","deviceName":"Android Emulator","appActivity":".MainActivity","appPackage":"com.kayakwise.hfcrd","noReset":true}}"
+DEBUG|2018/05/09 16:36|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","androidPackage":"com.android.keyguard","platformName":"Android","deviceName":"Android Emulator","appActivity":".MainActivity","appPackage":"com.kayakwise.hfcrd","noReset":true}}"
+DEBUG - http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG|2018/05/09 16:37|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG - http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG|2018/05/09 16:37|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG|2018/05/09 16:37|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG|2018/05/09 16:37|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG|2018/05/09 16:37|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG - http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG|2018/05/09 16:37|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 16:37|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Length: 346[\r][\n]"
+DEBUG|2018/05/09 16:37|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Length: 346[\r][\n]"
+DEBUG - http-outgoing-0 << "Date: Wed, 09 May 2018 08:37:20 GMT[\r][\n]"
+DEBUG|2018/05/09 16:37|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Date: Wed, 09 May 2018 08:37:20 GMT[\r][\n]"
+DEBUG - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG|2018/05/09 16:37|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG - http-outgoing-0 << "[\r][\n]"
+DEBUG|2018/05/09 16:37|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "[\r][\n]"
+DEBUG - http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity)","origValue":"Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity"},"sessionId":null}"
+DEBUG|2018/05/09 16:37|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity)","origValue":"Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity"},"sessionId":null}"
+DEBUG - http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG|2018/05/09 16:37|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:124] : http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG - http-outgoing-0 << X-Powered-By: Express
+DEBUG|2018/05/09 16:37|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << X-Powered-By: Express
+DEBUG - http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG|2018/05/09 16:37|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG - http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG|2018/05/09 16:37|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG - http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG|2018/05/09 16:37|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG - http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG|2018/05/09 16:37|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 16:37|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 << Content-Length: 346
+DEBUG|2018/05/09 16:37|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Length: 346
+DEBUG - http-outgoing-0 << Date: Wed, 09 May 2018 08:37:20 GMT
+DEBUG|2018/05/09 16:37|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Date: Wed, 09 May 2018 08:37:20 GMT
+DEBUG - http-outgoing-0 << Connection: keep-alive
+DEBUG|2018/05/09 16:37|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Connection: keep-alive
+DEBUG - Connection can be kept alive indefinitely
+DEBUG|2018/05/09 16:37|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:284] : Connection can be kept alive indefinitely
+DEBUG - Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG|2018/05/09 16:37|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:314] : Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG - Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 16:37|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:320] : Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - CookieSpec selected: default
+DEBUG|2018/05/09 16:57|=>org.apache.http.client.protocol.RequestAddCookies.process()[RequestAddCookies.java:122] : CookieSpec selected: default
+DEBUG - Auth cache not set in the context
+DEBUG|2018/05/09 16:57|=>org.apache.http.client.protocol.RequestAuthCache.process()[RequestAuthCache.java:76] : Auth cache not set in the context
+DEBUG - Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG|2018/05/09 16:57|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection()[PoolingHttpClientConnectionManager.java:249] : Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG - Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 16:57|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection()[PoolingHttpClientConnectionManager.java:282] : Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - Opening connection {}->http://127.0.0.1:4723
+DEBUG|2018/05/09 16:57|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:234] : Opening connection {}->http://127.0.0.1:4723
+DEBUG - Connecting to /127.0.0.1:4723
+DEBUG|2018/05/09 16:57|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:138] : Connecting to /127.0.0.1:4723
+DEBUG - Connection established 127.0.0.1:36887<->127.0.0.1:4723
+DEBUG|2018/05/09 16:57|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:145] : Connection established 127.0.0.1:36887<->127.0.0.1:4723
+DEBUG - http-outgoing-0: set socket timeout to 10800000
+DEBUG|2018/05/09 16:57|=>org.apache.http.impl.conn.DefaultManagedHttpClientConnection.setSocketTimeout()[LoggingManagedHttpClientConnection.java:90] : http-outgoing-0: set socket timeout to 10800000
+DEBUG - Executing request POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 16:57|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:255] : Executing request POST /wd/hub/session HTTP/1.1
+DEBUG - Target auth state: UNCHALLENGED
+DEBUG|2018/05/09 16:57|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:260] : Target auth state: UNCHALLENGED
+DEBUG - Proxy auth state: UNCHALLENGED
+DEBUG|2018/05/09 16:57|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:266] : Proxy auth state: UNCHALLENGED
+DEBUG - http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 16:57|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:135] : http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG - http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 16:57|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 >> Content-Length: 219
+DEBUG|2018/05/09 16:57|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Length: 219
+DEBUG - http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG|2018/05/09 16:57|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG - http-outgoing-0 >> Connection: Keep-Alive
+DEBUG|2018/05/09 16:57|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Connection: Keep-Alive
+DEBUG - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG|2018/05/09 16:57|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG|2018/05/09 16:57|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG - http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG|2018/05/09 16:57|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 16:57|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Length: 219[\r][\n]"
+DEBUG|2018/05/09 16:57|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Length: 219[\r][\n]"
+DEBUG - http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG|2018/05/09 16:57|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG|2018/05/09 16:57|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG|2018/05/09 16:57|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG|2018/05/09 16:57|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG - http-outgoing-0 >> "[\r][\n]"
+DEBUG|2018/05/09 16:57|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "[\r][\n]"
+DEBUG - http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","androidPackage":"com.android.keyguard","platformName":"Android","deviceName":"Android Emulator","appActivity":".MainActivity","noReset":true}}"
+DEBUG|2018/05/09 16:57|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","androidPackage":"com.android.keyguard","platformName":"Android","deviceName":"Android Emulator","appActivity":".MainActivity","noReset":true}}"
+DEBUG - http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG|2018/05/09 16:58|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG - http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG|2018/05/09 16:58|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG|2018/05/09 16:58|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG|2018/05/09 16:58|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG|2018/05/09 16:58|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG - http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG|2018/05/09 16:58|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 16:58|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Length: 346[\r][\n]"
+DEBUG|2018/05/09 16:58|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Length: 346[\r][\n]"
+DEBUG - http-outgoing-0 << "Date: Wed, 09 May 2018 08:58:03 GMT[\r][\n]"
+DEBUG|2018/05/09 16:58|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Date: Wed, 09 May 2018 08:58:03 GMT[\r][\n]"
+DEBUG - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG|2018/05/09 16:58|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG - http-outgoing-0 << "[\r][\n]"
+DEBUG|2018/05/09 16:58|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "[\r][\n]"
+DEBUG - http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity)","origValue":"Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity"},"sessionId":null}"
+DEBUG|2018/05/09 16:58|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity)","origValue":"Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity"},"sessionId":null}"
+DEBUG - http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG|2018/05/09 16:58|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:124] : http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG - http-outgoing-0 << X-Powered-By: Express
+DEBUG|2018/05/09 16:58|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << X-Powered-By: Express
+DEBUG - http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG|2018/05/09 16:58|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG - http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG|2018/05/09 16:58|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG - http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG|2018/05/09 16:58|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG - http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG|2018/05/09 16:58|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 16:58|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 << Content-Length: 346
+DEBUG|2018/05/09 16:58|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Length: 346
+DEBUG - http-outgoing-0 << Date: Wed, 09 May 2018 08:58:03 GMT
+DEBUG|2018/05/09 16:58|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Date: Wed, 09 May 2018 08:58:03 GMT
+DEBUG - http-outgoing-0 << Connection: keep-alive
+DEBUG|2018/05/09 16:58|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Connection: keep-alive
+DEBUG - Connection can be kept alive indefinitely
+DEBUG|2018/05/09 16:58|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:284] : Connection can be kept alive indefinitely
+DEBUG - Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG|2018/05/09 16:58|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:314] : Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG - Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 16:58|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:320] : Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - CookieSpec selected: default
+DEBUG|2018/05/09 17:01|=>org.apache.http.client.protocol.RequestAddCookies.process()[RequestAddCookies.java:122] : CookieSpec selected: default
+DEBUG - Auth cache not set in the context
+DEBUG|2018/05/09 17:01|=>org.apache.http.client.protocol.RequestAuthCache.process()[RequestAuthCache.java:76] : Auth cache not set in the context
+DEBUG - Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG|2018/05/09 17:01|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection()[PoolingHttpClientConnectionManager.java:249] : Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG - Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 17:01|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection()[PoolingHttpClientConnectionManager.java:282] : Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - Opening connection {}->http://127.0.0.1:4723
+DEBUG|2018/05/09 17:01|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:234] : Opening connection {}->http://127.0.0.1:4723
+DEBUG - Connecting to /127.0.0.1:4723
+DEBUG|2018/05/09 17:01|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:138] : Connecting to /127.0.0.1:4723
+DEBUG - Connection established 127.0.0.1:37082<->127.0.0.1:4723
+DEBUG|2018/05/09 17:01|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:145] : Connection established 127.0.0.1:37082<->127.0.0.1:4723
+DEBUG - http-outgoing-0: set socket timeout to 10800000
+DEBUG|2018/05/09 17:01|=>org.apache.http.impl.conn.DefaultManagedHttpClientConnection.setSocketTimeout()[LoggingManagedHttpClientConnection.java:90] : http-outgoing-0: set socket timeout to 10800000
+DEBUG - Executing request POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 17:01|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:255] : Executing request POST /wd/hub/session HTTP/1.1
+DEBUG - Target auth state: UNCHALLENGED
+DEBUG|2018/05/09 17:01|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:260] : Target auth state: UNCHALLENGED
+DEBUG - Proxy auth state: UNCHALLENGED
+DEBUG|2018/05/09 17:01|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:266] : Proxy auth state: UNCHALLENGED
+DEBUG - http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:135] : http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG - http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 >> Content-Length: 206
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Length: 206
+DEBUG - http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG - http-outgoing-0 >> Connection: Keep-Alive
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Connection: Keep-Alive
+DEBUG - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG - http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Length: 206[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Length: 206[\r][\n]"
+DEBUG - http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG - http-outgoing-0 >> "[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "[\r][\n]"
+DEBUG - http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","androidPackage":"com.android","platformName":"Android","deviceName":"Android Emulator","appActivity":".keyguard","noReset":true}}"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","androidPackage":"com.android","platformName":"Android","deviceName":"Android Emulator","appActivity":".keyguard","noReset":true}}"
+DEBUG - http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG - http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG - http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Length: 164[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Length: 164[\r][\n]"
+DEBUG - http-outgoing-0 << "Date: Wed, 09 May 2018 09:01:47 GMT[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Date: Wed, 09 May 2018 09:01:47 GMT[\r][\n]"
+DEBUG - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG - http-outgoing-0 << "[\r][\n]"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "[\r][\n]"
+DEBUG - http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Screen did not unlock)","origValue":"Screen did not unlock"},"sessionId":null}"
+DEBUG|2018/05/09 17:01|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Screen did not unlock)","origValue":"Screen did not unlock"},"sessionId":null}"
+DEBUG - http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:124] : http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG - http-outgoing-0 << X-Powered-By: Express
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << X-Powered-By: Express
+DEBUG - http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG - http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG - http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG - http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 << Content-Length: 164
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Length: 164
+DEBUG - http-outgoing-0 << Date: Wed, 09 May 2018 09:01:47 GMT
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Date: Wed, 09 May 2018 09:01:47 GMT
+DEBUG - http-outgoing-0 << Connection: keep-alive
+DEBUG|2018/05/09 17:01|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Connection: keep-alive
+DEBUG - Connection can be kept alive indefinitely
+DEBUG|2018/05/09 17:01|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:284] : Connection can be kept alive indefinitely
+DEBUG - Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG|2018/05/09 17:01|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:314] : Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG - Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 17:01|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:320] : Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - CookieSpec selected: default
+DEBUG|2018/05/09 17:03|=>org.apache.http.client.protocol.RequestAddCookies.process()[RequestAddCookies.java:122] : CookieSpec selected: default
+DEBUG - Auth cache not set in the context
+DEBUG|2018/05/09 17:03|=>org.apache.http.client.protocol.RequestAuthCache.process()[RequestAuthCache.java:76] : Auth cache not set in the context
+DEBUG - Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG|2018/05/09 17:03|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection()[PoolingHttpClientConnectionManager.java:249] : Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG - Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 17:03|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection()[PoolingHttpClientConnectionManager.java:282] : Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - Opening connection {}->http://127.0.0.1:4723
+DEBUG|2018/05/09 17:03|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:234] : Opening connection {}->http://127.0.0.1:4723
+DEBUG - Connecting to /127.0.0.1:4723
+DEBUG|2018/05/09 17:03|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:138] : Connecting to /127.0.0.1:4723
+DEBUG - Connection established 127.0.0.1:37233<->127.0.0.1:4723
+DEBUG|2018/05/09 17:03|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:145] : Connection established 127.0.0.1:37233<->127.0.0.1:4723
+DEBUG - http-outgoing-0: set socket timeout to 10800000
+DEBUG|2018/05/09 17:03|=>org.apache.http.impl.conn.DefaultManagedHttpClientConnection.setSocketTimeout()[LoggingManagedHttpClientConnection.java:90] : http-outgoing-0: set socket timeout to 10800000
+DEBUG - Executing request POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 17:03|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:255] : Executing request POST /wd/hub/session HTTP/1.1
+DEBUG - Target auth state: UNCHALLENGED
+DEBUG|2018/05/09 17:03|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:260] : Target auth state: UNCHALLENGED
+DEBUG - Proxy auth state: UNCHALLENGED
+DEBUG|2018/05/09 17:03|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:266] : Proxy auth state: UNCHALLENGED
+DEBUG - http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:135] : http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG - http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 >> Content-Length: 206
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Length: 206
+DEBUG - http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG - http-outgoing-0 >> Connection: Keep-Alive
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Connection: Keep-Alive
+DEBUG - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG - http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Length: 206[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Length: 206[\r][\n]"
+DEBUG - http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG - http-outgoing-0 >> "[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "[\r][\n]"
+DEBUG - http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","androidPackage":"com.android","platformName":"Android","deviceName":"Android Emulator","appActivity":".keyguard","noReset":true}}"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","androidPackage":"com.android","platformName":"Android","deviceName":"Android Emulator","appActivity":".keyguard","noReset":true}}"
+DEBUG - http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG - http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG - http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Length: 164[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Length: 164[\r][\n]"
+DEBUG - http-outgoing-0 << "Date: Wed, 09 May 2018 09:03:52 GMT[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Date: Wed, 09 May 2018 09:03:52 GMT[\r][\n]"
+DEBUG - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG - http-outgoing-0 << "[\r][\n]"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "[\r][\n]"
+DEBUG - http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Screen did not unlock)","origValue":"Screen did not unlock"},"sessionId":null}"
+DEBUG|2018/05/09 17:03|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Screen did not unlock)","origValue":"Screen did not unlock"},"sessionId":null}"
+DEBUG - http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:124] : http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG - http-outgoing-0 << X-Powered-By: Express
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << X-Powered-By: Express
+DEBUG - http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG - http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG - http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG - http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 << Content-Length: 164
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Length: 164
+DEBUG - http-outgoing-0 << Date: Wed, 09 May 2018 09:03:52 GMT
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Date: Wed, 09 May 2018 09:03:52 GMT
+DEBUG - http-outgoing-0 << Connection: keep-alive
+DEBUG|2018/05/09 17:03|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Connection: keep-alive
+DEBUG - Connection can be kept alive indefinitely
+DEBUG|2018/05/09 17:03|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:284] : Connection can be kept alive indefinitely
+DEBUG - Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG|2018/05/09 17:03|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:314] : Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG - Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 17:03|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:320] : Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - CookieSpec selected: default
+DEBUG|2018/05/09 17:04|=>org.apache.http.client.protocol.RequestAddCookies.process()[RequestAddCookies.java:122] : CookieSpec selected: default
+DEBUG - Auth cache not set in the context
+DEBUG|2018/05/09 17:04|=>org.apache.http.client.protocol.RequestAuthCache.process()[RequestAuthCache.java:76] : Auth cache not set in the context
+DEBUG - Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG|2018/05/09 17:04|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection()[PoolingHttpClientConnectionManager.java:249] : Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG - Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 17:04|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection()[PoolingHttpClientConnectionManager.java:282] : Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - Opening connection {}->http://127.0.0.1:4723
+DEBUG|2018/05/09 17:04|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:234] : Opening connection {}->http://127.0.0.1:4723
+DEBUG - Connecting to /127.0.0.1:4723
+DEBUG|2018/05/09 17:04|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:138] : Connecting to /127.0.0.1:4723
+DEBUG - Connection established 127.0.0.1:37326<->127.0.0.1:4723
+DEBUG|2018/05/09 17:04|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:145] : Connection established 127.0.0.1:37326<->127.0.0.1:4723
+DEBUG - http-outgoing-0: set socket timeout to 10800000
+DEBUG|2018/05/09 17:04|=>org.apache.http.impl.conn.DefaultManagedHttpClientConnection.setSocketTimeout()[LoggingManagedHttpClientConnection.java:90] : http-outgoing-0: set socket timeout to 10800000
+DEBUG - Executing request POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 17:04|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:255] : Executing request POST /wd/hub/session HTTP/1.1
+DEBUG - Target auth state: UNCHALLENGED
+DEBUG|2018/05/09 17:04|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:260] : Target auth state: UNCHALLENGED
+DEBUG - Proxy auth state: UNCHALLENGED
+DEBUG|2018/05/09 17:04|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:266] : Proxy auth state: UNCHALLENGED
+DEBUG - http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:135] : http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG - http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 >> Content-Length: 206
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Length: 206
+DEBUG - http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG - http-outgoing-0 >> Connection: Keep-Alive
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Connection: Keep-Alive
+DEBUG - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG - http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Length: 206[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Length: 206[\r][\n]"
+DEBUG - http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG - http-outgoing-0 >> "[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "[\r][\n]"
+DEBUG - http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","androidPackage":"com.android","platformName":"Android","deviceName":"Android Emulator","appActivity":".keyguard","noReset":true}}"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","androidPackage":"com.android","platformName":"Android","deviceName":"Android Emulator","appActivity":".keyguard","noReset":true}}"
+DEBUG - http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG - http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG - http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Length: 164[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Length: 164[\r][\n]"
+DEBUG - http-outgoing-0 << "Date: Wed, 09 May 2018 09:04:40 GMT[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Date: Wed, 09 May 2018 09:04:40 GMT[\r][\n]"
+DEBUG - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG - http-outgoing-0 << "[\r][\n]"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "[\r][\n]"
+DEBUG - http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Screen did not unlock)","origValue":"Screen did not unlock"},"sessionId":null}"
+DEBUG|2018/05/09 17:04|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Screen did not unlock)","origValue":"Screen did not unlock"},"sessionId":null}"
+DEBUG - http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:124] : http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG - http-outgoing-0 << X-Powered-By: Express
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << X-Powered-By: Express
+DEBUG - http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG - http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG - http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG - http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 << Content-Length: 164
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Length: 164
+DEBUG - http-outgoing-0 << Date: Wed, 09 May 2018 09:04:40 GMT
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Date: Wed, 09 May 2018 09:04:40 GMT
+DEBUG - http-outgoing-0 << Connection: keep-alive
+DEBUG|2018/05/09 17:04|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Connection: keep-alive
+DEBUG - Connection can be kept alive indefinitely
+DEBUG|2018/05/09 17:04|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:284] : Connection can be kept alive indefinitely
+DEBUG - Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG|2018/05/09 17:04|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:314] : Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG - Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 17:04|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:320] : Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - CookieSpec selected: default
+DEBUG|2018/05/09 17:05|=>org.apache.http.client.protocol.RequestAddCookies.process()[RequestAddCookies.java:122] : CookieSpec selected: default
+DEBUG - Auth cache not set in the context
+DEBUG|2018/05/09 17:05|=>org.apache.http.client.protocol.RequestAuthCache.process()[RequestAuthCache.java:76] : Auth cache not set in the context
+DEBUG - Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG|2018/05/09 17:05|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.requestConnection()[PoolingHttpClientConnectionManager.java:249] : Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+DEBUG - Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 17:05|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.leaseConnection()[PoolingHttpClientConnectionManager.java:282] : Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG - Opening connection {}->http://127.0.0.1:4723
+DEBUG|2018/05/09 17:05|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:234] : Opening connection {}->http://127.0.0.1:4723
+DEBUG - Connecting to /127.0.0.1:4723
+DEBUG|2018/05/09 17:05|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:138] : Connecting to /127.0.0.1:4723
+DEBUG - Connection established 127.0.0.1:37447<->127.0.0.1:4723
+DEBUG|2018/05/09 17:05|=>org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect()[DefaultHttpClientConnectionOperator.java:145] : Connection established 127.0.0.1:37447<->127.0.0.1:4723
+DEBUG - http-outgoing-0: set socket timeout to 10800000
+DEBUG|2018/05/09 17:05|=>org.apache.http.impl.conn.DefaultManagedHttpClientConnection.setSocketTimeout()[LoggingManagedHttpClientConnection.java:90] : http-outgoing-0: set socket timeout to 10800000
+DEBUG - Executing request POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 17:05|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:255] : Executing request POST /wd/hub/session HTTP/1.1
+DEBUG - Target auth state: UNCHALLENGED
+DEBUG|2018/05/09 17:05|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:260] : Target auth state: UNCHALLENGED
+DEBUG - Proxy auth state: UNCHALLENGED
+DEBUG|2018/05/09 17:05|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:266] : Proxy auth state: UNCHALLENGED
+DEBUG - http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:135] : http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+DEBUG - http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 >> Content-Length: 206
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Content-Length: 206
+DEBUG - http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Host: 127.0.0.1:4723
+DEBUG - http-outgoing-0 >> Connection: Keep-Alive
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Connection: Keep-Alive
+DEBUG - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)
+DEBUG - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onRequestSubmitted()[LoggingManagedHttpClientConnection.java:138] : http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG - http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 >> "Content-Length: 206[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Content-Length: 206[\r][\n]"
+DEBUG - http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+DEBUG - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.7.0_80)[\r][\n]"
+DEBUG - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG - http-outgoing-0 >> "[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 >> "[\r][\n]"
+DEBUG - http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","androidPackage":"com.android","platformName":"Android","deviceName":"Android Emulator","appActivity":".keyguard","noReset":true}}"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 >> "{"desiredCapabilities":{"automationName":"Appium","platformVersion":"8.0.0","androidPackage":"com.android","platformName":"Android","deviceName":"Android Emulator","appActivity":".keyguard","noReset":true}}"
+DEBUG - http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+DEBUG - http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+DEBUG - http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+DEBUG - http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+DEBUG - http-outgoing-0 << "Content-Length: 346[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Content-Length: 346[\r][\n]"
+DEBUG - http-outgoing-0 << "Date: Wed, 09 May 2018 09:05:56 GMT[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Date: Wed, 09 May 2018 09:05:56 GMT[\r][\n]"
+DEBUG - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG - http-outgoing-0 << "[\r][\n]"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:72] : http-outgoing-0 << "[\r][\n]"
+DEBUG - http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity)","origValue":"Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity"},"sessionId":null}"
+DEBUG|2018/05/09 17:05|=>org.apache.http.wire.wire()[Wire.java:86] : http-outgoing-0 << "{"status":33,"value":{"message":"A new session could not be created. (Original error: Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity)","origValue":"Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity"},"sessionId":null}"
+DEBUG - http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:124] : http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+DEBUG - http-outgoing-0 << X-Powered-By: Express
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << X-Powered-By: Express
+DEBUG - http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG - http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+DEBUG - http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+DEBUG - http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Vary: X-HTTP-Method-Override
+DEBUG - http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Type: application/json; charset=utf-8
+DEBUG - http-outgoing-0 << Content-Length: 346
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Content-Length: 346
+DEBUG - http-outgoing-0 << Date: Wed, 09 May 2018 09:05:56 GMT
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Date: Wed, 09 May 2018 09:05:56 GMT
+DEBUG - http-outgoing-0 << Connection: keep-alive
+DEBUG|2018/05/09 17:05|=>org.apache.http.headers.onResponseReceived()[LoggingManagedHttpClientConnection.java:127] : http-outgoing-0 << Connection: keep-alive
+DEBUG - Connection can be kept alive indefinitely
+DEBUG|2018/05/09 17:05|=>org.apache.http.impl.execchain.MainClientExec.execute()[MainClientExec.java:284] : Connection can be kept alive indefinitely
+DEBUG - Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG|2018/05/09 17:05|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:314] : Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+DEBUG - Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+DEBUG|2018/05/09 17:05|=>org.apache.http.impl.conn.PoolingHttpClientConnectionManager.releaseConnection()[PoolingHttpClientConnectionManager.java:320] : Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+ERROR - D:\workspace\hfbank_hxshApp\test\resources\hxLife.apk
+ERROR|2018/05/09 17:13|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp\test\resources\hxLife.apk
+ERROR - D:\workspace\hfbank_hxshApp\src\test\resources\hxLife.apk
+ERROR|2018/05/09 17:14|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp\src\test\resources\hxLife.apk
+ERROR - D:\workspace\hfbank_hxshApp
+ERROR|2018/05/09 17:14|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp
+ERROR - D:\workspace\hfbank_hxshApp\app\resources\hxLife.apk
+ERROR|2018/05/09 17:16|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp\app\resources\hxLife.apk
+ERROR - D:\workspace\hfbank_hxshApp
+ERROR|2018/05/09 17:16|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp
+ERROR - D:\workspace\hfbank_hxshApp\app\hxLife.apk
+ERROR|2018/05/09 17:17|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp\app\hxLife.apk
+ERROR - D:\workspace\hfbank_hxshApp
+ERROR|2018/05/09 17:17|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp
+ERROR - D:\workspace\hfbank_hxshApp\app\hxLife.apk
+ERROR|2018/05/09 17:21|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp\app\hxLife.apk
+ERROR - D:\workspace\hfbank_hxshApp
+ERROR|2018/05/09 17:21|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp
+ERROR - D:\workspace\hfbank_hxshApp\app\hxLife.apk
+ERROR|2018/05/09 17:29|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp\app\hxLife.apk
+ERROR - D:\workspace\hfbank_hxshApp
+ERROR|2018/05/09 17:29|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp
+ERROR - D:\workspace\hfbank_hxshApp\app\hxLife.apk
+ERROR|2018/05/09 17:31|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp\app\hxLife.apk
+ERROR - D:\workspace\hfbank_hxshApp
+ERROR|2018/05/09 17:31|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp
+ERROR - D:\workspace\hfbank_hxshApp\app\hxLife.apk
+ERROR|2018/05/10 11:42|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp\app\hxLife.apk
+ERROR - D:\workspace\hfbank_hxshApp
+ERROR|2018/05/10 11:42|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp
+ERROR - D:\workspace\hfbank_hxshApp\app\hxLife.apk
+ERROR|2018/05/10 14:19|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp\app\hxLife.apk
+ERROR - D:\workspace\hfbank_hxshApp
+ERROR|2018/05/10 14:19|=>cn.com.hfbank.hxshApp.test.AppiumTest.error()[Log.java:27] : D:\workspace\hfbank_hxshApp
+ERROR - error：adshfkjadsfasdfhk
+ERROR - error：adshfkjadsfasdfhk
+INFO - info:adshfkjadsfasdfhk
+WARN - warn:adshfkjadsfasdfhk
+INFO - Fri May 11 11:52:51 CST 2018
+INFO - Fri May 11 11:52:51 CST 2018
+INFO - Fri May 11 11:54:20 CST 2018
+INFO - Fri May 11 11:56:13 CST 2018
+INFO - 开始查找元素[By.xpath: //*[@id="auto-id-1526353042036"]]
+ERROR - 超时!! 10 秒之后还没找到元素 [By.xpath: //*[@id="auto-id-1526353042036"]]
+INFO - 开始查找元素[By.name: email]
+ERROR - 超时!! 10 秒之后还没找到元素 [By.name: email]
+INFO - 开始查找元素[By.className: j-inputtext dlemail]
+ERROR - 超时!! 10 秒之后还没找到元素 [By.className: j-inputtext dlemail]
+INFO - 开始查找元素[By.className: j-inputtext dlemail]
+ERROR - 超时!! 10 秒之后还没找到元素 [By.className: j-inputtext dlemail]
+INFO - 开始查找元素[By.xpath: //*[@id="dologin"]]
+INFO - 找到了元素 [By.xpath: //*[@id="dologin"]]
+INFO - 开始查找元素[By.className: u-input box]
+ERROR - 超时!! 10 秒之后还没找到元素 [By.className: u-input box]
+INFO - 开始查找元素[By.xpath: //*[@id="dologin"]]
+INFO - 找到了元素 [By.xpath: //*[@id="dologin"]]
+INFO - 开始查找元素[By.className: j-inputtext dlemail]
+ERROR - 超时!! 10 秒之后还没找到元素 [By.className: j-inputtext dlemail]
+INFO - 开始查找元素[By.xpath: //*[@id="dologin"]]
+ERROR - 超时!! 10 秒之后还没找到元素 [By.xpath: //*[@id="dologin"]]
+INFO - 开始查找元素[By.xpath: //*[@id="dologin"]]
+INFO - 找到了元素 [By.xpath: //*[@id="dologin"]]
+INFO - 开始查找元素[By.tagName: 邮箱帐号或手机号]
+ERROR - 超时!! 10 秒之后还没找到元素 [By.tagName: 邮箱帐号或手机号]
+INFO - 开始查找元素[By.xpath: //*[@id="dologin"]]
+INFO - 找到了元素 [By.xpath: //*[@id="dologin"]]
+INFO - 开始查找元素[By.xpath: //*[@id="dologin"]]
+INFO - 找到了元素 [By.xpath: //*[@id="dologin"]]
+INFO - 开始查找元素[By.xpath: //*[@id="dologin"]]
+INFO - 找到了元素 [By.xpath: //*[@id="dologin"]]
+INFO - 开始查找元素[By.name: 工作]
+INFO - 找到了元素 [By.name: 工作]
+INFO - 开始查找元素[By.name: 考勤打卡]
+INFO - 找到了元素 [By.name: 考勤打卡]
+INFO - 开始查找元素[By.name: 工作]
+INFO - 找到了元素 [By.name: 工作]
+INFO - 开始查找元素[By.name: 考勤打卡]
+INFO - 找到了元素 [By.name: 考勤打卡]
+INFO - 开始查找元素[By.name: 工作]
+INFO - 找到了元素 [By.name: 工作]
+INFO - 开始查找元素[By.name: 考勤打卡]
+INFO - 找到了元素 [By.name: 考勤打卡]
+INFO - 开始查找元素[By.name: 工作]

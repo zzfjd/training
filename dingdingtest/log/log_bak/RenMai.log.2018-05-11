@@ -1,0 +1,8 @@
+ERROR|2018/05/11 11:52|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+ERROR|2018/05/11 11:52|=>cn.com.hfbank.hxshApp.test.test.error()[Log.java:27] : error：adshfkjadsfasdfhk
+INFO|2018/05/11 11:52|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : info:adshfkjadsfasdfhk
+WARN|2018/05/11 11:52|=>cn.com.hfbank.hxshApp.test.test.warn()[Log.java:32] : warn:adshfkjadsfasdfhk
+INFO|2018/05/11 11:52|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : Fri May 11 11:52:51 CST 2018
+INFO|2018/05/11 11:52|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : Fri May 11 11:52:51 CST 2018
+INFO|2018/05/11 11:54|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : Fri May 11 11:54:20 CST 2018
+INFO|2018/05/11 11:56|=>cn.com.hfbank.hxshApp.test.test.info()[Log.java:19] : Fri May 11 11:56:13 CST 2018

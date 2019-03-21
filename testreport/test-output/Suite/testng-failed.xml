@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="恒丰银行系统启动状态监测测试(failed)">
+    <classes>
+      <class name="com.test.test">
+        <methods>
+          <include name="test04"/>
+          <include name="test06"/>
+        </methods>
+      </class> <!-- com.test.test -->
+    </classes>
+  </test> <!-- 恒丰银行系统启动状态监测测试(failed) -->
+</suite> <!-- Failed suite [Suite] -->
